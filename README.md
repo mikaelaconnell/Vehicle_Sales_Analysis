@@ -1,5 +1,4 @@
-# Phase4_Project
-Predicting Car Price Using Machine Learning Models
+# Predicting Car Price Using Machine Learning Models
 
 Executive Summary: Vehicle Sales Data Analysis
 
